@@ -10,11 +10,6 @@
 <project name="bike-shop" default="default" basedir=".">
     <description>Builds, tests, and runs the project bike-shop.</description>
     <import file="nbproject/build-impl.xml"/>
-
-    <properties>
-      <sonar.organization>flaviaabanto</sonar.organization>
-      <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-    </properties>
     <!--
 
     There exist several targets which are by default empty and which can be 
